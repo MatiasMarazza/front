@@ -24,3 +24,6 @@ a {
     background: black;
   }
 }
+.gjs-pn-views{
+  width:auto !important;
+}

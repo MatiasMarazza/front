@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import grapesjs from 'grapesjs';
-  import plugin from 'grapesjs-project-manager';
+import plugin from 'grapesjs-project-manager';
 import dynamic from 'next/dynamic'
 
 //  const plugin = dynamic(() => import('grapesjs-project-manager'), {
